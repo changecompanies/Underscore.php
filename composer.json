@@ -1,0 +1,14 @@
+{
+    "name": "changecompanies/underscore",
+    "type": "package",
+    "version": "1.0",
+    "description": "fork of https://github.com/brianhaveri/Underscore.php",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "__": "underscore.php"
+        }
+    }
+}
